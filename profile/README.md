@@ -15,7 +15,7 @@ runs-on: ubuntu-latest
 ```
 ⬇️
 ```yml
-runs-on: sprinters:aws/123456789012:ubuntu-latest
+runs-on: sprinters:aws:ubuntu-latest
 ```
 
 [Get started in under 5 minutes](https://console.sprinters.sh/login)
@@ -23,7 +23,9 @@ runs-on: sprinters:aws/123456789012:ubuntu-latest
 ---
 © 2025 InfrastructureX GmbH
 
-<a href="https://sprinters.sh/docs">Docs</a>
+<a href="https://sprinters.sh/new">What's new?</a>
+&middot; <a href="https://sprinters.sh/pricing">Pricing</a>
+&middot; <a href="https://sprinters.sh/docs">Docs</a>
 &middot; <a href="https://sprinters.sh/docs/security">Security</a>
 &middot; <a href="https://github.com/sprinters-sh/sprinters/issues">Issues</a>
 &middot; <a href="https://x.com/sprinters_sh">𝕏</a>
